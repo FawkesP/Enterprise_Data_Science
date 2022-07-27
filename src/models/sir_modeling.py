@@ -9,7 +9,8 @@ warnings.filterwarnings('ignore')
 
 
 df_input_large=pd.read_csv('../data/processed/COVID_sir_flat_table.csv',sep=';').iloc[80:]
-pop = pd.read_csv('../data/processed/population.csv',sep=';')
+pop_url='https://github.com/FawkesP/Enterprise_Data_Science/blob/main/data/processed/population.csv'
+pop = pd.read_csv(pop_url,sep=';')
 
 df_all = df_input_large.columns
 df_all = list(df_all)
