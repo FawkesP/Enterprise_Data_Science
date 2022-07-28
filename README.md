@@ -66,18 +66,23 @@ To generate COVID-19 infection statistics by implementing SIR Model.
 
 ## First Delivery:
 Plotting graph for three countries showing cases and vaccinations relative to population with respect to time. The countries chosen for this exercise were Australia, United Kingdom and Hong Kong. Following plots were generated:
-[Plot 1]
-[Plot 2]
+![419148_Relative_Cases_COVID](https://user-images.githubusercontent.com/54177686/181649180-43db358c-ee12-44d6-ab74-4fadd8aad53a.png)
+
+![419148_RelativeVax_perPop](https://user-images.githubusercontent.com/54177686/181649247-d7b7a241-596c-4de9-b309-7857615a337d.png)
+
 
 ## Final Delivery:
 ### The created Dashboard has following sections:
 
 - Confirmed cases for all countries. The country/ies can be selected from the dropdown menu. Doubling rate: The time taken for the cases to double. Doubling rate filtered: Doubling rate using Savgol filter for better forecast.
+![newplot](https://user-images.githubusercontent.com/54177686/181651888-6985636b-17fb-431f-857f-c9d55d92ca46.png)
 
-- Plot for relative Vaccinations w.r.t. to population of the country.
+- Plot for relative Vaccinations w.r.t. to population of the country. The plots are the ones shown in first delivery.
 
 - An SIR model; S: Susceptible Population, I: Infected and R: Recovered, over period of time and the real cases plotted along with it for better understanding.
+![newplot-2](https://user-images.githubusercontent.com/54177686/181651929-a722cd64-b165-4dfc-a290-7d5056d9c7a6.png)
 
 - World Map for all countries.
+![newplot-3](https://user-images.githubusercontent.com/54177686/181651973-2309dd1d-25ad-4cd1-b68c-518dbb8dd49b.png)
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
