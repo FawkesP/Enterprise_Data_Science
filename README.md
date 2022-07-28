@@ -54,4 +54,30 @@ Project Organization
 
 --------
 
+## Objectives:
+To develop a prototype for COVID-19 analysis using the learnt best practices of data science.
+To create an interactive dashboard using industry standard CRISP-DM.
+Plotting confirmed cases, doubling rate and SIR Model for all countries.
+To generate COVID-19 infection statistics by implementing SIR Model.
+
+## How to run:
+- Clone the repository. 
+- Use the Final_Submission.ipynb Jupiter notebook from folder Final_Project_Delivery folder from the cloned repository.
+
+## First Delivery:
+Plotting graph for three countries showing cases and vaccinations relative to population with respect to time. The countries chosen for this exercise were Australia, United Kingdom and Hong Kong. Following plots were generated:
+[Plot 1]
+[Plot 2]
+
+## Final Delivery:
+### The created Dashboard has following sections:
+
+- Confirmed cases for all countries. The country/ies can be selected from the dropdown menu. Doubling rate: The time taken for the cases to double. Doubling rate filtered: Doubling rate using Savgol filter for better forecast.
+
+- Plot for relative Vaccinations w.r.t. to population of the country.
+
+- An SIR model; S: Susceptible Population, I: Infected and R: Recovered, over period of time and the real cases plotted along with it for better understanding.
+
+- World Map for all countries.
+
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
