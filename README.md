@@ -70,6 +70,8 @@ Plotting graph for three countries showing cases and vaccinations relative to po
 
 ![419148_RelativeVax_perPop](https://user-images.githubusercontent.com/54177686/181649247-d7b7a241-596c-4de9-b309-7857615a337d.png)
 
+## Pitch Video:
+Watch the video uploaded in pitch_video folder.
 
 ## Final Delivery:
 ### The created Dashboard has following sections:
@@ -84,5 +86,7 @@ Plotting graph for three countries showing cases and vaccinations relative to po
 
 - World Map for all countries.
 ![newplot-3](https://user-images.githubusercontent.com/54177686/181651973-2309dd1d-25ad-4cd1-b68c-518dbb8dd49b.png)
+
+## FIN
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
